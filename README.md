@@ -19,7 +19,7 @@ Here are the result.[Demo](multi_agent_result.pdf).
 3. Run the script.
 
 ## 
-1)provide gemini api key
-2)Upload both your ui/ux and compitator ui/ux
-3)select additional focus areas
-4)describe your product, target audience.
+1. provide gemini api key
+2. Upload both your ui/ux and compitator ui/ux
+3. select additional focus areas
+4. describe your product, target audience.
