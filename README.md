@@ -8,7 +8,7 @@ This project implements a multi-agent design team that analyzes the UI/UX of mob
 - **UX Agent**: Analyzes the user experience and interaction flow.
 - **Market Agent**: Assesses the app's market positioning and user reception.
 
-Results from the analysis are compiled and presented in a comprehensive [Demo](multi_agent_result). 
+Results from the analysis are compiled and presented in a comprehensive [Demo](multi_agent_result.pdf). 
 
 
 
